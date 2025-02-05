@@ -1,4 +1,11 @@
 {
     "key": "XX",
-    "authorizedPlayers": ["thardFarmin", "Player2", "Player3"]
+    "authorizedPlayers": [
+        "Player1",
+        "Player2"
+    ],
+    "accessLevel": {
+        "Player1": "premium",
+        "Player2": "basic"
+    }
 }
